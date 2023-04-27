@@ -1,0 +1,116 @@
+.navbar{
+    border-radius: 10px;
+    
+    
+}
+.navbar-logo{
+    width: 50px;
+}
+
+
+.col-md-7{ 
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    width: 40%;
+    margin-left: 15%;
+}
+.col-md-5{
+    margin-top: 7%;
+    
+    background-repeat: no-repeat;
+
+}
+.carousel-bg{
+    background-color: white;
+}
+.carousel-indicators [data-bs-target]{
+    
+    background-image:linear-gradient(90deg, orange, orange);
+    height: 10px ;
+    border: 1px solid orange;
+    border-radius: 10px;
+    width: 40px;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 25px;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+    text-align: center;
+}
+.container{
+    margin-top: 60px;
+}
+.see-all-button{
+    text-align: right;     
+}
+.button-see{
+    border: none;
+        background-color: white;
+        color: orange;
+        padding-block-end: 20px;
+}
+.categories-img-4{
+    width: 100%;
+}
+.Categories-text{
+    text-align: center;
+}
+.row-Categories{
+    margin-top: 50px;
+}
+.categories-img-1{
+    
+    box-shadow: 5px 5px 10px rgb(243, 4, 4);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40%;
+    height: 50%;
+    
+
+    
+    
+}
+.categories-img-2 { 
+    margin-top: 50px;
+        box-shadow: 5px 5px 10px rgb(250, 1, 1);
+        border-radius: 10px;
+        text-align: center;
+        padding: 20px;
+        
+    
+}
+.categories-img-3{
+        margin-top: 30px;
+            box-shadow: 5px 5px 10px rgb(247, 6, 6);
+            border-radius: 10px;
+            text-align: center;
+            padding: 20px;
+            
+        
+}
+.carousel-button [data-bs-target]{
+    
+    background-color: orange;
+    border: none;
+    margin-left: 45.5%;
+    border-radius: 5px;
+    height: 8px;
+    width: 100px;
+    
+}
+
+
+.small-footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    
+    
+}
